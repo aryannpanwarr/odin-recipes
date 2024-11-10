@@ -163,3 +163,44 @@
     border-radius: 12px;
     border: 2px solid black;
 }
+
+/* Vegetable Soup */
+
+
+
+.soup{
+    width: 900px;
+    background-color: #66CDAA;
+    padding: 30px;
+    margin: 20px auto;
+    border: 4px solid lightgreen;
+    border-radius: 30px;
+    
+}
+
+.soup .image{
+    display: inline-block;
+    width: 300px;
+    margin: 30px ;
+    vertical-align: text-top;
+    border-radius: 20px; 
+    
+}
+
+.soup .content{
+    display: inline-block;
+    width: 400px;
+    padding: auto;
+    vertical-align: top;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+.soup .button{
+    width: 150px;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 12px;
+    border: 2px solid black;
+}
