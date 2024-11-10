@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+}
+
+.index{
+    background-color:  	#66CDAA;
+}
+
+/* Cinnamon Tea */
+
+.cinnamon{
+    width: 900px;
+    background-color: #66CDAA;
+    padding: 30px;
+    margin: 20px auto;
+    border: 4px solid lightgreen;
+    border-radius: 30px;
+    
+}
+
+.cinnamon .image{
+    display: inline-block;
+    width: 300px;
+    margin: 30px ;
+    vertical-align: text-top;
+    border-radius: 20px; 
+    
+}
+
+.cinnamon .content{
+    display: inline-block;
+    width: 400px;
+    padding: auto;
+    vertical-align: top;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+.cinnamon .button{
+    width: 150px;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 12px;
+    border: 2px solid black;
+}
+
+/* Salad */
+
+.salad{
+    width: 900px;
+    background-color: #66CDAA;
+    padding: 20px;
+    margin: 20px auto;
+    border: 4px solid lightgreen;
+    border-radius: 30px;
+    
+}
+
+.salad .image{
+    display: inline-block;
+    width: 300px;
+    margin: 30px ;
+    vertical-align: text-top;
+    border-radius: 20px; 
+    
+}
+
+.salad .content{
+    display: inline-block;
+    width: 400px;
+    padding: auto;
+    vertical-align: top;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+.salad .button{
+    width: 150px;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 12px;
+    border: 2px solid black;
+}
